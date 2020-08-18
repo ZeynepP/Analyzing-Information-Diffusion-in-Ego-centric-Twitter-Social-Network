@@ -28,4 +28,8 @@ For this project the ego network is generated for the actress *Rakulpreet* from 
 ## Gallery
 ![](results/SIS/SISwithbet_cent.png "SIS with bet cent")![](results/SIR/SIRwithbet_cent.png "SIR with bet cent")![](results/IC/ICwithbet_cent.png "IC with bet cent")![](results/community/community.jpg "detected communities")
 
-Copyright (C) 2020 Bhavya Mendiratta
+## Authors
+
+- [@damiyanVC](https://github.com/damiyanVC) - **Ankit Kumar**
+- [@1999dipu](https://github.com/1999dipu) - **Dipansha Chhabra**
+- [@bhavyamendiratta](https://github.com/bhavyamendiratta) - **Bhavya Mendiratta** 
